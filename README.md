@@ -7,4 +7,6 @@ Works with the BusReborn app
 
 Inspired by the excellent Node-GTFS project 
 https://github.com/brendannee/node-gtfs
-Brendan Nee me@bn.ee
+
+
+By Brendan Nee me@bn.ee
